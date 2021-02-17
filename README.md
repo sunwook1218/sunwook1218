@@ -14,4 +14,4 @@ MT Communication / Mobile Security Solution Team
 bsw20@mtcm.co.kr
 
 ### My Blog
-GO(https://sunwook1218.github.io)
+[GO](https://sunwook1218.github.io)
