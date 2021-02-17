@@ -1,5 +1,3 @@
-### 안녕 👋
-
 ### Working on 💼
 MT Communication / Mobile Security Solution Team
 
@@ -10,8 +8,8 @@ MT Communication / Mobile Security Solution Team
 - Java Reflection
 - SpringFramework
 
-### Contact me
+### Contact me 📨
 bsw20@mtcm.co.kr
 
-### My Blog
+### My Blog 📑
 [GO](https://sunwook1218.github.io) 🌻
