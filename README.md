@@ -12,4 +12,4 @@
 bsw20@mtcm.co.kr
 
 ### My Blog 📑
-[GO](https://sunwook1218.github.io) 🌻
+[https://sunwook1218.tistory.com/](https://sunwook1218.tistory.com/) 🌻
