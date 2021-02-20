@@ -3,7 +3,7 @@
 
 ### Learning 🌱
 - [KNOU University Bachelor's Course](https://github.com/sunwook1218/KNOU)
-- androidx
+- RxJava
 - Java POI
 - Java Reflection
 - SpringFramework
