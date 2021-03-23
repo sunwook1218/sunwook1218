@@ -2,11 +2,9 @@
 [MT Communication](http://www.mtcm.co.kr/) / Mobile Security Solution Team
 
 ### Learning 🌱
-- [KNOU University Bachelor's Course](https://github.com/sunwook1218/KNOU)
 - SpringFramework
-- RxJava
+- Android
 - Java POI
-- Java Reflection
 
 ### Contact me 📨
 bsw20@mtcm.co.kr
