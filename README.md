@@ -1,10 +1,11 @@
 ### Working on 💼
-[MT Communication](http://www.mtcm.co.kr/) / Mobile Security Solution Team
+[MT Communication](http://www.mtcm.co.kr/)
 
 ### Learning 🌱
 - SpringFramework
+- SpringBoot
+- JPA
 - Android
-- Java POI
 
 ### Contact me 📨
 bsw20@mtcm.co.kr
