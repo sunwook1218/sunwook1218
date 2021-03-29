@@ -16,8 +16,8 @@
   * Route53
 
 ### MY OWN SITE
-개발중
-www.uhaha.me
+개발중  
+http://uhaha.me
 
 ### Contact me 📨
 bsw20@mtcm.co.kr
