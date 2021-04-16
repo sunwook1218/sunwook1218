@@ -6,9 +6,10 @@
   * legacy xml Spring
 - SpringBoot
   * SpringBoot Security
+  * OAUTH2.0
   * Mustache
   * Java POI Excel
-- JPA
+- JPA / QueryDSL
 - Android
 - AWS
   * EC2
