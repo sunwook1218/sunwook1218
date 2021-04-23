@@ -2,15 +2,24 @@
 [MT Communication](http://www.mtcm.co.kr/)
 
 ### Learning 🌱
+
 - SpringFramework
   * legacy xml Spring
+
+
 - SpringBoot
-  * SpringBoot Security
-  * OAUTH2.0
+  * SpringBoot Security / OAuth2.0
+  * JPA Hibernate / QueryDSL
   * Mustache
-  * Java POI Excel
-- JPA / QueryDSL
-- Android
+
+
+- Android JetPack
+  * Room
+  * ViewModel
+  * DataBinding
+  * LiveData
+
+
 - AWS
   * EC2
   * RDS
@@ -22,6 +31,3 @@ http://uhaha.me
 
 ### Contact me 📨
 bsw20@mtcm.co.kr
-
-### My Blog 📑
-[https://sunwook1218.tistory.com/](https://sunwook1218.tistory.com/) 🌻
