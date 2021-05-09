@@ -1,6 +1,3 @@
-### Working on 💼
-[MT Communication](http://www.mtcm.co.kr/)
-
 ### Skills
 - Backend
   * Java
