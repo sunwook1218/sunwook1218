@@ -15,10 +15,8 @@
 
 - Frontend
   * HTML5, CSS3, JS(ES6)
-  * Vue.js
 
 - Collaboration
-  * Jira
   * Slack
 
 ### Learning 🌱
